@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\border.9.png",
+        "source": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\border.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\hide.png",
+        "source": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\hide.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\close.png",
+        "source": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\close.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\maximize.png",
+        "source": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\maximize.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\corner.png",
+        "source": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\corner.png"
+    },
+    {
+        "merged": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\border_focused.9.png",
+        "source": "C:\\Users\\Martin\\AndroidStudioProjects\\StandOutApp\\standOut\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\border_focused.9.png"
+    }
+]
